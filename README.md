@@ -5,7 +5,7 @@ A first exploration of _Rust_.
 
 A quick tour of testing, creating modules, defining new traits and implementing these for custom types.
 
-My overall impression is that _Rust_ is a very interesting system's language (i.e. does not run on a VM).
+My overall impression is that _Rust_ is a very interesting systems language (i.e. does not run on a VM).
 
 The design choice of not relying on a garbage collector but compile time guarantees for memory safety is interesting.
 
