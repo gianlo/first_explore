@@ -1,7 +1,6 @@
-# Intro
+# A first exploration of _Rust_
 
 
-A first exploration of _Rust_. 
 
 A quick tour of testing, creating modules, defining new traits and implementing these for custom types.
 
